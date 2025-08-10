@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi! +My+name+is+Mac+Robert+Savandal;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-</p>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A6AF7&background=FFDE7300&width=435&lines=Hi!+I'm+Mac+Robert+Savandal;I+am+an+aspiring+Game+Developer%E2%9A%94%EF%B8%8F)](https://git.io/typing-svg)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcccc07" alt="mcccc07" /></a> </p>
 
