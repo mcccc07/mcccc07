@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mac Robert Savandal</h1>
-<h3 align="center">An aspiring game developer from Philippines</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi! +My+name+is+Mac+Robert+Savandal;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcccc07" alt="mcccc07" /></a> </p>
 
