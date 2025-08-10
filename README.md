@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=45&pause=1000&color=8A6AF7&background=FFDE7300&width=435&lines=Hi!+I'm+Mac+Robert+Savandal%F0%9F%91%8C;I+am+an+aspiring+Game+Developer%E2%9A%94%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=8A6AF7&background=FFDE7300&width=435&lines=Hi!+I'm+Mac+Robert+Savandal%F0%9F%91%8C;I+am+an+aspiring+Game+Developer%E2%9A%94%EF%B8%8F)](https://git.io/typing-svg)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcccc07" alt="mcccc07" /></a> </p>
 
