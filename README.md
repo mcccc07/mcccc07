@@ -1,3 +1,5 @@
+<img align= "right" alt= "Chibi" width = "400" src= "https://tenor.com/view/chibi-anime-boy-gif-9216917100686033263">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=60&pause=1000&color=8A6AF7&background=FFDE7300&center=true&vCenter=true&width=1000&height=200&lines=Hi!+I'm+Mac+Robert+Savandal%F0%9F%91%8C;+An+aspiring+Game+Developer%E2%9A%94%EF%B8%8F)](https://git.io/typing-svg)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcccc07" alt="mcccc07" /></a> </p>
