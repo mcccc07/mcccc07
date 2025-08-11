@@ -1,4 +1,4 @@
-<img align= "right" alt= "Chibi" width = "400" src= "https://tenor.com/view/chibi-anime-boy-gif-9216917100686033263">
+<img align= "right" alt= "Chibi" width = "400" src= "[https://tenor.com/view/chibi-anime-boy-gif-9216917100686033263](https://media.tenor.com/f-kRRQ6dQW8AAAAi/chibi-anime-boy.gif)">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=60&pause=1000&color=8A6AF7&background=FFDE7300&center=true&vCenter=true&width=1000&height=200&lines=Hi!+I'm+Mac+Robert+Savandal%F0%9F%91%8C;+An+aspiring+Game+Developer%E2%9A%94%EF%B8%8F)](https://git.io/typing-svg)
 
