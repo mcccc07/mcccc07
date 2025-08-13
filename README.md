@@ -4,7 +4,7 @@
 
 <div align="center">
  Aspiring Game Developer | Certified Meta Data Analyst | Sophomore Year at LVCC
-</div>
+</div><br>
 
 <div align="center">
   <img height="210" src="https://i.redd.it/1m7v0o2aibxd1.gif"  />
