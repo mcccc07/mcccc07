@@ -6,7 +6,7 @@
   <img height="210" src="https://i.redd.it/1m7v0o2aibxd1.gif"  />
 </div>
 
-###
+### Programming Languages
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
 
-###
+### My Streak🔥
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=mcccc07&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
@@ -28,15 +28,23 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mcccc07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+### Contact Me📱
 
 <div align="center">
+  <a href="https://discord.com/channels/@makki_roll" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+</a>
+  <a href="https://www.linkedin.com/in/mac-savandal-185767318/" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+</a>
+  <a href="https://www.facebook.com/qwerty.ping00" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" 
+       width="52" height="40" alt="facebook logo" />
+</a>
+<a href="https://www.instagram.com/makki_.roll/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</a>
 </div>
 
 ###
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mcccc07&" alt="mcccc07" /></p>
+
