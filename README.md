@@ -2,9 +2,13 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Libertinus+serif&weight=900&size=48&pause=1000&color=3D9BF7&center=true&vCenter=true&width=1000&height=100&lines=Hi!+My+name+is+Mac+Robert+Savandal%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" /></a>
 </div>
 
+---
+
 <div align="center">
  Aspiring Game Developer | Certified Meta Data Analyst | Sophomore Year at LVCC
 </div><br>
+
+---
 
 <div align="center">
   <img height="210" src="https://i.redd.it/1m7v0o2aibxd1.gif"  />
