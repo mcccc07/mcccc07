@@ -30,10 +30,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mcccc07/mcccc07/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -43,3 +39,4 @@
 </div>
 
 ###
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mcccc07&" alt="mcccc07" /></p>
