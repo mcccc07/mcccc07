@@ -16,6 +16,22 @@
 
 ---
 
+### Certifications and Badges
+
+<p align="center">
+  <a href="https://www.credly.com/badges/892ab3c8-1cc2-4e65-9095-5388f145b0cf">
+    <img src="https://images.credly.com/size/220x220/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" width="120"/>
+  </a>
+  <a href="https://coursera.org/share/cfe714aead798abd916d06b4f6599d8c">
+    <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~JKC2YOYAJASO/CERTIFICATE_LANDING_PAGE~JKC2YOYAJASO.jpeg" width="220"/>
+  </a>
+  <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-cc8cee74-9cc8-4481-9956-054c9f37a046.jpg?v=1744369050000">
+    <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-cc8cee74-9cc8-4481-9956-054c9f37a046.jpg?v=1744369050000" width="220"/>
+  </a>
+</p>
+
+---
+
 ### Programming Languages
 
 <div align="left">
@@ -32,7 +48,7 @@
 
 ---
 
-### My Streak🔥
+### My Streak
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=mcccc07&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
@@ -42,7 +58,7 @@
 
 ---
 
-### Contact Me📱
+### Contact Me
 
 <div align="left">
   <a href="https://discord.com/channels/@makki_roll" target="_blank">
