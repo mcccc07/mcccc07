@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
- Aspiring Game Developer | Certified Meta Data Analyst | Sophomore Year at LVCC
+ Aspiring Game Developer | BS in Information System | Sophomore Year at LVCC
 </div><br>
 
 ---
